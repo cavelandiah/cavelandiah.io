@@ -12,5 +12,4 @@ end
   
 gem "jekyll-remote-theme"
 gem "webrick", "~> 1.7"
-gem "tomlrb"
 gem "github-pages", group: :jekyll_plugins
